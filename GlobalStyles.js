@@ -1,0 +1,80 @@
+/* fonts */
+export const FontFamily = {
+  regular12: "Poppins_regular",
+  semibold20: "Poppins_semibold",
+  medium12: "Poppins_medium",
+  headingH3: "Poppins_bold",
+  plusJakartaSansSemibold: "Plus Jakarta Sans_semibold",
+  skModernistRegular: "Sk-Modernist_regular",
+  montserratSemibold: "Montserrat_semibold",
+  nunitoSansRegular: "Nunito Sans_regular",
+};
+/* font sizes */
+export const FontSize = {
+  size_sm: 14,
+  regular12_size: 12,
+  size_3xl: 22,
+  size_base: 16,
+  size_21xl: 40,
+  size_4xs: 9,
+  size_lg: 18,
+  size_5xs: 8,
+  semibold20_size: 20,
+  size_6xs: 7,
+  size_3xs: 10,
+  size_2xs: 11,
+};
+/* Colors */
+export const Color = {
+  pureWhite: "#fff",
+  color2: "#e52479",
+  purple: "#91228f",
+  disabled: "#7b7a8c",
+  grey: "#5e7389",
+  slategray_100: "rgba(123, 122, 140, 0.64)",
+  darkslategray_100: "#3d3d3d",
+  darkslategray_200: "#1c3957",
+  primaryColor: "#29256e",
+  color1: "#191781",
+  midnightblue_100: "#161659",
+  secondaryColor: "#ef406a",
+  snow: "#fefbfc",
+  black: "#000",
+  black: "#0d0d26",
+  gray_100: "#090808",
+  gray_200: "rgba(38, 38, 38, 0.56)",
+  gray_300: "rgba(255, 255, 255, 0.8)",
+  secondary300: "#90a3bf",
+  bodyLight: "#8a9099",
+  grey60: "#95969d",
+  neutralDark: "#223263",
+  bodyDark: "#595f69",
+  royalblue: "#0079fb",
+};
+/* Paddings */
+export const Padding = {
+  p_xl: 20,
+  p_3xs: 10,
+};
+/* border radiuses */
+export const Border = {
+  br_81xl: 100,
+  br_15xl: 34,
+  br_3xs: 10,
+  br_8xs: 5,
+  br_128xl: 147,
+  br_17xl: 36,
+  br_9xl: 28,
+  br_9xs: 4,
+  br_5xs: 8,
+  br_7xs: 6,
+  br_4xl: 23,
+  br_base: 16,
+  br_11xl: 30,
+  br_2xl: 21,
+  br_xs: 12,
+  br_30xl: 49,
+  br_11xs: 2,
+  br_13xl_5: 33,
+  br_8xl: 27,
+};
